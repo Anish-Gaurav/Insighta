@@ -1,4 +1,5 @@
-# Instagram Audience Persona Analyzer (Compliant)
+# Insightia-InstaAudienceAnalyzer
+
 
 Classify bios/comments into personas (Student, Tech, Religious, Fitness, Job-seeker, Creator, Business, Other) and generate an aggregate report.  
 **No scraping**. Works with official Instagram Graph API data you’re allowed to fetch (audience insights, commenters/likers on your media) or CSV uploads collected **with consent**.
