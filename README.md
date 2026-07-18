@@ -13,7 +13,6 @@ http://127.0.0.1:8000/ui
 
 
 git clone https://github.com/Anish-Gaurav/Insighta.git
-cd Insightia
 
 macOS / Linux
 python3 -m venv .venv
